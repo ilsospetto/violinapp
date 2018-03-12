@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Violin App</string>
+    <string name="user">Usuário</string>
+    <string name="password">Senha</string>
+    <string name="login_title">Violin App</string>
+    <string name="entrar">ENTRAR</string>
+    <string name="welcome">Bem Vindo!</string>
+</resources>
